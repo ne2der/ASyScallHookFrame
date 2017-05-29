@@ -1,0 +1,1 @@
+cmd_/home/ne2der/Research/Hook_jprobe/hook.o := /mnt/repo_2/repodisk/disk_1/Android_Source/Android-7.1.1_r1/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld -EL    -r -o /home/ne2der/Research/Hook_jprobe/hook.o /home/ne2der/Research/Hook_jprobe/hook_jprobe.o 
