@@ -31,3 +31,13 @@
 # Debug files
 *.dSYM/
 *.su
+*.symvers
+
+# Middle files
+*.cmd
+*.mod
+*.order
+*.mod.c
+
+# DIR
+Hook_jprobe/.tmp_versions/
